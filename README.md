@@ -6,8 +6,8 @@ I'm an eager and able learner. I value reading the manual and listening to my co
 
 ## Current Projects
 
-*Hello World: Java Console Application
+* Hello World: Java Console Application
 
-*Hello World: Android App
+* Hello World: Android App
 
 ## Links
